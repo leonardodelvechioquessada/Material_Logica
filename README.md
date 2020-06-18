@@ -1,3 +1,6 @@
+![Lógica](https://img.shields.io/badge/L%C3%B3gica-1.0-blue)
+![Build Passing](https://img.shields.io/badge/build-passing-yellow)
+
 # Material Logica
 Meu material de lógica de programação para UC9 do Senac Vila Prudente
 
